@@ -11,4 +11,4 @@ Depois, inicie o server: `json-server server.json -p 3333`
 
 Agora inicie o aplicativo react: `yarn start`
 
-https://musing-leavitt-5c5d56.netlify.app/
+https://competent-mcnulty-51d804.netlify.app
