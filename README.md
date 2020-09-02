@@ -1,12 +1,6 @@
-# Rocketshoes Web Store
-<h1 align="center" >  
-  <img src="/readme-assets/screenshot.png" width="600"/>
-</h1>
+## Rocketshoes Web Store
 
 Projeto Web Store usando ReactJS e json-server.
-
-Para iniciar o "banco de dados" do projeto instale o json-server.
-https://github.com/typicode/json-server
 
 ## Inciar o projeto
 
